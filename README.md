@@ -8,5 +8,4 @@ Características principales
 - Cálculo del precio promedio de los productos.
 - Búsqueda de productos por nombre (case-insensitive).
 - Visualización completa del listado de productos.
-- Validación de entradas numéricas (lectura segura con fgets + sscanf).
 - Proyecto modular dividido en main.c, funciones.c y funciones.h.
