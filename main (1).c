@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <ctype.h>
-#include "funciones.c"
+#include "funciones.h"
 
 int main()
 {
